@@ -9,7 +9,7 @@ import BottomTabNavigator from './navigation/TabNavigator';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>a</Text>
+      
       <StatusBar style="auto" />
     </View>
   );
